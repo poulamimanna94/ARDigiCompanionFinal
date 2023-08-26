@@ -1,0 +1,10 @@
+<svg id="tasks_-_image" data-name="tasks - image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="33" viewBox="0 0 24 33">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3088" data-name="Rectangle 3088" width="24" height="33" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3834" data-name="Group 3834" clip-path="url(#clip-path)">
+    <path id="Path_2818" data-name="Path 2818" d="M18,2V0H6V2.5A2.5,2.5,0,0,0,8.5,5h7a2.5,2.5,0,0,0,2.449-2H23V30h1V2Zm-1,.5A1.5,1.5,0,0,1,15.5,4h-7A1.5,1.5,0,0,1,7,2.5V1H17ZM1,32H24v1H0V2H4V3H1ZM11,16.208,8.146,13.354l.707-.707L11,14.793l4.646-4.646.707.707ZM8.146,23.354l.707-.707L11,24.793l4.646-4.646.707.707L11,26.208Z" fill="#1b1534"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.2" height="24" viewBox="0 0 19.2 24">
+  <g id="mute" transform="translate(-239 -42)">
+    <path id="voice" d="M9.6,14.4a4.2,4.2,0,0,0,4.2-4.2v-6a4.2,4.2,0,1,0-8.4,0v6a4.2,4.2,0,0,0,4.2,4.2ZM7.8,4.2a1.8,1.8,0,0,1,3.6,0v6a1.8,1.8,0,0,1-3.6,0Zm9,5.4h2.4c0,3.132-1.8,8.9-8.4,9.6V24H8.4V19.2C1.8,18.5,0,12.732,0,9.6H2.4c0,.732.252,7.2,7.2,7.2S16.8,10.332,16.8,9.6Z" transform="translate(239 42)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
